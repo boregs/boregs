@@ -5,7 +5,7 @@ Sobre mim:
 Olá sou o Rafael, sou estudante de Análise e Desenvolvimento de sistemas na Universidade Cidade de São Paulo (UNICID). Meu interesse em tecnologia começou cedo, com 15 anos 
 eu era fascinado em topicos variando de motagens de computadores, até devlogs de games.
 
-Porém foi com o incentivo da faculdade que aprofundei meu interesse na area de tech, iniciando meus estudos com projetos pequenos em Python e HTML e então partindo para
+Porém foi com o incentivo da faculdade que aprofundei meu interesse na area de tech, iniciando meus estudos com projetos pequenos em Python e HTML e atualmente partindo para
 explorar novos horizontes com C++ e C#, sempre tentando priorizar técnicas de engenharia de software.
 
 Por favor me acompanhe nessa jornada pelo mundo da tecnólogia!
