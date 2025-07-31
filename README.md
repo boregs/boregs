@@ -17,8 +17,8 @@ Por favor me acompanhe nessa jornada pelo mundo da tecnólogia!
 ## Stats 👀
 <div>
 <a href="https://github.com/boregs">
-<img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boregs&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api?username=boregs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boregs&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="125em" src="https://github-readme-stats.vercel.app/api?username=boregs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 ## Entre em contato comigo! 👾
