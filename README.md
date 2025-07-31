@@ -6,7 +6,7 @@ Olá sou o Rafael, sou estudante de Análise e Desenvolvimento de sistemas na Un
 eu era fascinado em topicos variando de motagens de computadores, até devlogs de games.
 
 Porém foi com o incentivo da faculdade que aprofundei meu interesse na area de tech, iniciando meus estudos com projetos pequenos em Python e HTML e atualmente partindo para
-explorar novos horizontes com C++ e C#, sempre tentando priorizar técnicas de engenharia de software.
+explorar novos horizontes com C++ e C#, sempre tentando aprender algo novo todos os dias.
 
 Por favor me acompanhe nessa jornada pelo mundo da tecnólogia!
 
