@@ -13,7 +13,7 @@ Por favor me acompanhe nessa jornada pelo mundo da tecnólogia!
 
 ## Skills 🤖
 <p align="center">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> 
 </p>
 
 ## Stats 👀
