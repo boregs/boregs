@@ -1,4 +1,4 @@
-## Olá, sou Rafael Borges! 🌐
+## Olá, sou Rafael! 🌐
 <br>
 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID), com uma sólida paixão por tecnologia que começou cedo. Atualmente, estou focado em aprofundar minhas habilidades e conhecimentos na área de Dados, Inteligência Artificial e Machine Learning.
 
