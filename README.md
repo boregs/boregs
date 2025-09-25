@@ -7,7 +7,7 @@
 
 - 📝 Estudando Java e Machine Learning e serviços cloud (AWS)
 
-- ❤️ Utilizo Python e Java para meus projetos
+- 🖥️ Utilizo Python e Java para meus projetos
 
 - 🛠️ Trabalhando em um modelo de Machine Learning simples
 <br>
