@@ -5,7 +5,7 @@
 
 - 🎓 Estudante de análise e desenvolvimento de sistemas pela UNICID
 
-- 📝 Estudando Java, Machine Learning e serviços cloud (AWS)
+- 📝 Estudando Java, Machine Learning e Computação em nuvem (AWS)
 
 - 🖥️ Utilizo Python e Java para meus projetos
 
