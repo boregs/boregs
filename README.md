@@ -9,7 +9,6 @@
 
 - 🖥️ Utilizo Python e Java para meus projetos
 
-- 🛠️ Trabalhando em um modelo de Machine Learning simples
 <br>
 <br>
 
