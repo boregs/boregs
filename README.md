@@ -3,16 +3,16 @@
 
 #### Sobre mim
 
-- 🎓 Estudante de análise e desenvolvimento de sistemas pela UNICID
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas pela UNICID
 
-- 📝 Estudando Java, Machine Learning e Computação em nuvem (AWS)
+- 📝 Estudando Java e computação em nuvem (AWS)
 
-- 🖥️ Utilizo Python e Java para meus projetos
+- 🛠️ Utilizo Python e Java para meus projetos
 
 <br>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,pytorch,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,mysql)](https://skillicons.dev)
 
 
 <p align="center">
