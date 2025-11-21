@@ -12,7 +12,7 @@
 <br>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,postgres)](https://skillicons.dev)
 
 
 <p align="center">
@@ -23,6 +23,5 @@
 </p>
   
 #### Entre em contato comigo! 📩
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/boregs__/)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafaelboregs/)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:rafaborgesdasilva75@gmail.com)
