@@ -41,7 +41,3 @@
       <img src="https://skillicons.dev/icons?i=py,java,c,postgres,aws" />
     </a>
   </div>
-
-
-![snake gif](https://github.com/boregs/boregs/blob/output/github-contribution-grid-snake.svg)
-
