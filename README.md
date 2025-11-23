@@ -42,6 +42,6 @@
 </div>
   <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,java,postgres,mysql,aws" />
+      <img src="https://skillicons.dev/icons?i=py,java,postgres,mysql,aws&perline=5" />
     </a>
   </div>
