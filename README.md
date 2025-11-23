@@ -36,7 +36,7 @@
   
 **🛠️ Stack & Ferramentas**
 </div>
-  <div align="right">
+  <div align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=py,java,c,postgres,aws" />
     </a>
