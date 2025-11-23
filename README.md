@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhtZ2x4c3Rzd3Z3ejFycTY0bXkwZ2JvbzIweTcycnY3YWhuN3EzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LXxWO0pgGEma8W40A9/giphy.gif"
-       style="height: 250px; object-fit: cover; border-radius: 15px;"
-       alt="Pixel Art Banner"/"/>
-</div>
-
 <h1 align="center">Olá, sou Rafael Borges! 👋</h1>
 
 <p align="center">
@@ -49,5 +43,5 @@
   </div>
 
 
-
+![snake gif](https://github.com/boregs/boregs/blob/output/github-contribution-grid-snake.svg)
 
