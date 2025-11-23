@@ -32,6 +32,10 @@
 </br>
 </br>
 
+<br>
+<br>
+<br>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXppb2lsZW1ieG42OTJ0b3lva2FsN2MxamY1cXU2MThkMTRsb2lmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vMV8KKoHREdtm/giphy.gif" width=330 align="right">
 <div align="center">
   
 **🛠️ Stack & Ferramentas**
