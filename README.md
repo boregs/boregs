@@ -22,11 +22,11 @@
 
 
 <div align="justify">
-  Atualmente, sou <b>Estagiário de Suporte ao Time de Desenvolvimento na Epadoca</b> (uma startup tech). Minha rotina envolve estar na ponte entre os devs e o produto, garantindo que o time de desenvolvimento tenha o que precisa para operar. <br>
+  Atualmente, sou <b>Estagiário de Suporte ao Time de Desenvolvimento na Epadoca</b>. Minha rotina envolve estar na ponte entre os devs e o produto, garantindo que o time de desenvolvimento tenha o que precisa para operar. <br>
   <br>
   🔭 Focado em dominar <b>Java e PostgreSQL</b>.<br>
-  💼 Trabalhando diariamente com <b>SQL</b> e configs mobile na Epadoca.<br>
-  🌱 Estudando sobre Cloud Computing (<b>AWS</b>).
+  💼 Trabalhando diariamente com <b>SQL e AWS</b> e configs mobile na Epadoca.<br>
+  🌱 Aprofundando conhecimeentos sobre Cloud Computing (<b>AWS</b>).
   
 </div>
 </br>
