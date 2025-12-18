@@ -34,8 +34,13 @@
 
 <br>
 <br>
+<h3 align="center">🌱 GitHub Status</h3>
+<div align="center">
+  <img width="398" src="https://github-readme-stats.vercel.app/api?username=boregs&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=boregs&theme=nord&hide_border=false" alt="GitHub Streak Stats" />
+</div>
 <br>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXppb2lsZW1ieG42OTJ0b3lva2FsN2MxamY1cXU2MThkMTRsb2lmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vMV8KKoHREdtm/giphy.gif" width=330 align="right">
+<br>
 <div align="center">
   
 **🛠️ Stack & Ferramentas**
@@ -46,3 +51,11 @@
     </a>
   </div>
 
+
+<br>
+<br>
+<br>
+<br>
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif">
+  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
+</a>
