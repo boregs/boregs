@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou Rafael Borges! 👋</h1>
 
 <p align="center">
-  <em>Tech Intern @ Epadoca | Estudante de ADS 🎓 </em>
+  <em>Development Support Intern @ Epadoca | Estudante de ADS 🎓 </em>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/rafaelboregs/">
@@ -22,11 +22,11 @@
 
 
 <div align="justify">
-  Atualmente, sou <b>Estagiário de Suporte ao Time de Desenvolvimento na Epadoca</b>. Minha rotina envolve estar na ponte entre os devs e o produto, garantindo que o time de desenvolvimento tenha o que precisa para operar. <br>
+  Atualmente, sou Estagiário de Suporte de Desenvolvimento na Epadoca. Minha rotina envolve estar na ponte entre os devs e o produto, garantindo que o time de desenvolvimento tenha o que precisa para operar. <br>
   <br>
-  🔭 Focado em dominar <b>Java e PostgreSQL</b>.<br>
-  💼 Trabalhando diariamente com <b>SQL e AWS</b> e configs mobile na Epadoca.<br>
-  🌱 Aprofundando conhecimeentos sobre Cloud Computing (<b>AWS</b>).
+  🔭 Focado em dominar Java e PostgreSQL.<br>
+  💼 Trabalhando diariamente com SQL e AWS na Epadoca.<br>
+  💡 Aprofundando meus estudos sobre programação Backend
   
 </div>
 </br>
