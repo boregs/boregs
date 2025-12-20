@@ -26,7 +26,7 @@
   <br>
   🔭 Focado em dominar Java e PostgreSQL.<br>
   💼 Trabalhando diariamente com SQL e AWS na Epadoca.<br>
-  💡 Aprofundando meus estudos sobre programação Backend
+  💡 Aprofundando meus estudos sobre programação Backend 
   
 </div>
 </br>
