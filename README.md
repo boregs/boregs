@@ -36,7 +36,6 @@
 <br>
 <h3 align="center">🌱 GitHub Status</h3>
 <div align="center">
-  <img width="398" src="https://github-readme-stats.vercel.app/api?username=boregs&count_private=true&show_icons=true&theme=react&hide_border=false&rank_icon=github&border_radius=8" />
   <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=boregs&theme=react&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 <br>
