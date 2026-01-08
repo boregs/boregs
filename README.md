@@ -35,9 +35,7 @@
 </br>
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boregs&theme=github_dark&hide_border=true&refresh=1" alt="GitHub Streak"/>
-</div>
+<img align="center" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="1000px" />
 
 <br>
 <br>
