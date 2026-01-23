@@ -26,7 +26,7 @@
   Programador Backend em formação, cursando Análise e Desenvolvimento de Sistemas na UNICID, atualmente atuo como Estagiario de Suporte ao Desenvolvimento de
   aplicações em uma startup. Agora procuro aprimorar minhas habilidades no Backend, DevOps e Bancos de Dados mantendo o meu interesse em AI/ML. <br>
   <br>
-  🎯 Focado em dominar Java e PostgreSQL.<br>
+  🎯 Focado em dominar C# e PostgreSQL.<br>
   💻 Trabalhando diariamente com SQL e AWS.<br>
   🌐 Aprofundando meus estudos sobre Programação Backend
   
