@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou Rafael Borges! 👋</h1>
 
 <p align="center">
-  <em>Development Support Intern @ Epadoca | Estudante de ADS 🎓 </em>
+  <em>.NET Developer Intern @ Epadoca | Estudante de ADS 🎓 </em>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/rafaelboregs/">
@@ -23,8 +23,8 @@
 </div>
 
 <div align="justify">
-  Programador Backend em formação, cursando Análise e Desenvolvimento de Sistemas na UNICID, atualmente atuo como Estagiario de Suporte ao Desenvolvimento de
-  aplicações em uma startup. Agora procuro aprimorar minhas habilidades no Backend, DevOps e Bancos de Dados mantendo o meu interesse em AI/ML. <br>
+  Programador Backend em formação, cursando Análise e Desenvolvimento de Sistemas na UNICID, atualmente atuo como Estagiario de Desenvolvimento .NET
+  em uma startup. Agora procuro aprimorar minhas habilidades no Backend, DevOps e Bancos de Dados mantendo o meu interesse em AI/ML. <br>
   <br>
   🎯 Focado em dominar C# e PostgreSQL.<br>
   💻 Trabalhando diariamente com SQL e AWS.<br>
