@@ -46,7 +46,7 @@
   </div>
     <div align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,py,cs,postgres,git&perline=5" width="330" height="330" />
+        <img src="https://skillicons.dev/icons?i=java,cs,postgres,git&perline=5" width="330" height="330" />
       </a>
     </div>
 
