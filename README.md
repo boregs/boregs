@@ -27,7 +27,7 @@
   em uma startup. Agora procuro aprimorar minhas habilidades no Backend, DevOps e Bancos de Dados mantendo o meu interesse em AI/ML. <br>
   <br>
   🎯 Focado em dominar C# e PostgreSQL.<br>
-  💻 Trabalhando diariamente com SQL e AWS.<br>
+  💻 Trabalhando diariamente com C#, .NET e SQL.<br>
   🌐 Aprofundando meus estudos sobre Programação Backend
   
 </div>
