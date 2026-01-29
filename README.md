@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou Rafael Borges! 👋</h1>
 
 <p align="center">
-  <em>.NET Developer Intern @ Epadoca | Estudante de ADS 🎓 </em>
+  <em>.NET Developer Intern @ Epadoca</em>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/rafaelboregs/">
