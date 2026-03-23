@@ -24,10 +24,9 @@
 
 <div align="justify">
   Programador Backend em formação, cursando Análise e Desenvolvimento de Sistemas na UNICID, atualmente atuo como Estagiario de Desenvolvimento .NET
-  em uma startup. Agora procuro aprimorar minhas habilidades no Backend, DevOps e Bancos de Dados, mantendo o meu interesse em AI/ML. <br>
+  na Epadoca. Agora procuro aprimorar minhas habilidades no Backend, DevOps e Bancos de Dados, mantendo o meu interesse em AI/ML. <br>
   <br>
   🎯 Focado em dominar C# e PostgreSQL.<br>
-  💻 Trabalhando diariamente com C#, .NET e SQL.<br>
   🌐 Aprofundando meus estudos sobre Programação Backend
   
 </div>
