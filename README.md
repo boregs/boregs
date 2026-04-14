@@ -1,65 +1,48 @@
-<h1 align="center">Olá, sou Rafael Borges! 👋</h1>
-
-<p align="center">
-  <em>.NET Developer Intern @ Epadoca</em>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafaelboregs/">
-    <img src="https://skillicons.dev/icons?i=linkedin">
-  </a>
-  <a href="mailto:rafaborgesdasilva75@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail">
-  </a>
-</p>
-
-
-
+<h1 align="left">Hi, I am Rafael Borges</h1>
 <br>
-<br>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQxNXBldG1kczl2dXR3Y3Z4Z2RjNmNlZmRncWdkN3dwdXBtemRoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bXguSfnEakGFG/giphy.gif" width=330 align="left">
 <div align="center">
 
-**👤 Sobre Mim**
+<div align="center">
+  <img src="https://static.wikia.nocookie.net/eldenring/images/d/d7/Great_Rune_of_Malenia_Icon.png" alt="Malenia's Great Rune Icon" width="100" />
+  <br>
+</div>
+
+**About Me**
 </div>
 
 <div align="justify">
-  Programador Backend em formação, cursando Análise e Desenvolvimento de Sistemas na UNICID, atualmente atuo como Estagiario de Desenvolvimento .NET
-  na Epadoca. Agora procuro aprimorar minhas habilidades no Backend, DevOps e Bancos de Dados, mantendo o meu interesse em AI/ML. <br>
+ Backend Software Engineer in training, pursuing a degree in Systems Analysis and Development at UNICID, currently working as a Software Engineer Intern at Epadoca, focused on .NET Core. I am now seeking to enhance my knowledge in Systems Architecture, DevOps, and Databases management and integration, while maintaining my interest in AI/ML. <br>
   <br>
-  🎯 Focado em dominar C# e PostgreSQL.<br>
-  🌐 Aprofundando meus estudos sobre Programação Backend
-  
+
 </div>
 </br>
 </br>
 <br>
 
-<img align="center" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="1000px" />
+<!-- <img align="center" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="1000px" /> -->
 
 <br>
 <br>
 <br>
-<div align="center">  
+<div align="left">  
 
-  **🛠️ Stack & Ferramentas** 
+  ### **Main Skills**
   </div>
-    <div align="center">
+    <div align="left">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,cs,net,postgres,git&perline=5" width="330" height="330" />
+        <img src="https://skillicons.dev/icons?i=java,cs,net,postgres,git&perline=5" width="300" height="300" />
       </a>
     </div>
-
-
-<br>
-<br>
-<br>
-<br>
-<div align="center">
-  <br>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=boregs&theme=github-compact&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=boregs&color=2dba4e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+</div>
+<div>
+<div align="left">
+  <h3><strong>Contact me</strong></h3>
+  <p>
+    <a href="https://www.linkedin.com/in/rafaelboregs/">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="mailto:rafaborgesdasilva75@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    </a>
+  </p>
 </div>
