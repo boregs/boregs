@@ -1,17 +1,18 @@
-<h1 align="left">Hi, I am Rafael Borges</h1>
-<br>
-<div align="center">
+<img src="./assets/aiai.png" alt="Malenia's Great Rune Icon" width="330" align="left"/>
 
 <div align="center">
-  <img src="https://static.wikia.nocookie.net/eldenring/images/d/d7/Great_Rune_of_Malenia_Icon.png" alt="Malenia's Great Rune Icon" width="100" />
-  <br>
+  <h3>Hi, I am Rafael Borges</h3>
 </div>
 
-**About Me**
-</div>
+<div align="center">
 
+  **About Me**
+
+</div>
 <div align="justify">
- Backend Software Engineer in training, pursuing a degree in Systems Analysis and Development at UNICID, currently working as a Software Engineer Intern at Epadoca, focused on .NET Core. I am now seeking to enhance my knowledge in Systems Architecture, DevOps, and Databases management and integration, while maintaining my interest in AI/ML. <br>
+ Backend Software Engineer in training, pursuing a degree in Systems Analysis and Development at UNICID.<br>
+ Currently working as a Software Engineer Intern at Epadoca, focused on .NET Core.<br>
+  Focused on enhancing my knowledge in Systems Architecture, DevOps, and Databases management and integration, while maintaining my interest in AI/ML. <br>
   <br>
 
 </div>
@@ -19,28 +20,40 @@
 </br>
 <br>
 
-<!-- <img align="center" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="1000px" /> -->
-
-<br>
-<br>
-<br>
-<div align="left">  
-
-  ### **Main Skills**
-  </div>
-    <div align="left">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,cs,net,postgres,git&perline=5" width="300" height="300" />
-      </a>
-    </div>
+<br />
+<div align="center">
+  <img align="center"
+  height=200px
+  src= "https://github-readme-stats-fast.vercel.app/api?username=boregs&show_icons=true&theme=tokyonight&"/>
+  <img align="center"
+  height=200px
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=boregs&theme=tokyonight&layout=donut"/>
 </div>
-<div>
+
+<br />
+<br>
+<br>
+<br>
+
+
 <div align="left">
-  <h3><strong>Contact me</strong></h3>
+  <h3>Tech Stack </h3>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,net,java,postgres,aws,docker,git&theme=dark" alt="My Skills" />
+  </a>
+</div>
+
+<br />
+
+<div align="left">
+  <h3>Contact me </h3>
+  <br />
   <p>
     <a href="https://www.linkedin.com/in/rafaelboregs/">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
     </a>
+    &nbsp;
     <a href="mailto:rafaborgesdasilva75@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
     </a>
