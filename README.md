@@ -38,7 +38,7 @@
   <h3>Tech Stack </h3>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,net,java,postgres,aws,docker,git&theme=dark" alt="My Skills" width="475px"/>
+    <img src="https://skillicons.dev/icons?i=cs,net,java,postgres,docker,git&theme=dark" alt="My Skills" width="475px"/>
   </a>
 </div>
 <br />
