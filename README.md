@@ -21,15 +21,16 @@
 <br>
 
 <br />
+<!--
 <div align="center">
   <img align="center"
   height=200px
-  src= "https://github-readme-stats-fast.vercel.app/api?username=boregs&show_icons=true&theme=tokyonight&"/>
+  src= "https://github-readme-stats-fast.vercel.app/api?username=boregs&show_icons=true&theme=dark&"/>
   <img align="center"
   height=200px
-  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=boregs&theme=tokyonight&layout=donut"/>
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=boregs&theme=dark&layout=donut"/>
 </div>
-
+-->
 <br />
 <br>
 <br>
