@@ -13,7 +13,9 @@
  Backend Software Engineer in training, pursuing a degree in Systems Analysis and Development at UNICID.
  Currently working as a .NET Software Engineer Intern at Epadoca.
   Focused on enhancing my knowledge in Systems Architecture, DevOps, and Databases management and integration, while maintaining my interest in AI/ML. <br>
-<div align="center">
+
+  
+  <div align="center">
   <br />
   <p>
     <a href="https://www.linkedin.com/in/rafaelboregs/">
@@ -29,31 +31,22 @@
 </div>
 </br>
 </br>
-<br>
-
-<br />
-<!--
+<br><br><br>
 <div align="center">
-  <img align="center"
-  height=200px
-  src= "https://github-readme-stats-fast.vercel.app/api?username=boregs&show_icons=true&theme=dark&"/>
-  <img align="center"
-  height=200px
-  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=boregs&theme=dark&layout=donut"/>
-</div>
--->
-<br />
-<br>
-<br>
-<br>
-
-
-<div align="left">
   <h3>Tech Stack </h3>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,net,java,postgres,aws,docker,git&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cs,net,java,postgres,aws,docker,git&theme=dark" alt="My Skills" width="475px"/>
   </a>
 </div>
-
 <br />
+<br><br>
+<div align="center">
+  <img height="180px" src="https://github-readme-stats-fast.vercel.app/api?username=boregs&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=boregs&theme=tokyonight&layout=donut&hide_border=true&locale=en"/>
+</div>
+
+
+
+<br>
+<img align="center" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="1000px" />
