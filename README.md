@@ -1,7 +1,7 @@
 <img src="./assets/aiai.png" alt="Malenia's Great Rune Icon" width="330" align="left"/>
 
 <div align="center">
-  <h3>Hi, I am Rafael Borges</h3>
+  <h3>Hi, I am Rafael Borges 👋</h3>
 </div>
 
 <div align="center">
@@ -10,10 +10,21 @@
 
 </div>
 <div align="justify">
- Backend Software Engineer in training, pursuing a degree in Systems Analysis and Development at UNICID.<br>
- Currently working as a Software Engineer Intern at Epadoca, focused on .NET Core.<br>
+ Backend Software Engineer in training, pursuing a degree in Systems Analysis and Development at UNICID.
+ Currently working as a .NET Software Engineer Intern at Epadoca.
   Focused on enhancing my knowledge in Systems Architecture, DevOps, and Databases management and integration, while maintaining my interest in AI/ML. <br>
-  <br>
+<div align="center">
+  <br />
+  <p>
+    <a href="https://www.linkedin.com/in/rafaelboregs/">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:rafaborgesdasilva75@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    </a>
+  </p>
+</div>
 
 </div>
 </br>
@@ -46,17 +57,3 @@
 </div>
 
 <br />
-
-<div align="left">
-  <h3>Contact me </h3>
-  <br />
-  <p>
-    <a href="https://www.linkedin.com/in/rafaelboregs/">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="mailto:rafaborgesdasilva75@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-    </a>
-  </p>
-</div>
