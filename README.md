@@ -28,6 +28,8 @@
   </p>
 </div>
 
+<hr style="border: none; border-top: 1px solid #333;" />
+
 </div>
 </br>
 </br>
