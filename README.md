@@ -40,7 +40,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,net,java,postgres,docker,git&theme=dark" alt="My Skills" width="475px"/>
   </a>
-</div>
+</div> 
 <br />
 <br><br>
 <div align="center">
